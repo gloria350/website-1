@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+
+<customers>
+    <user userID="u1">
+        <name>Smith Willson</name>
+        <tel>+234-811-21-0-461-1</tel>
+        <email>smithwillson20@gmail.com</email>
+        <Data_Plan>STANDARD</Data_Plan>
+    </user>
+
+    <user userID="u2">
+        <name>Sunday Boss</name>
+        <tel>+234-811-21-0-461-1</tel>
+        <email>sundayboss@gmail.com</email>
+        <Data_Plan>PROFESIONAL</Data_Plan>
+    </user>
+
+    <user userID="u3">
+        <name>christopher james</name>
+        <tel>+234-811-21-0-461-1</tel>
+        <email>christjames007@gmail.com</email>
+        <Data_Plan>STANDARD</Data_Plan>
+    </user>
+
+    <user userID="u4">
+        <name>Sparta</name>
+        <tel>+234-811-21-0-461-1</tel>
+        <email>spartamosco20@gmail.com</email>
+        <Data_Plan>BASIC</Data_Plan>
+    </user>
+</customers>
